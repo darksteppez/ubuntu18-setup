@@ -1,10 +1,13 @@
-install sublime (using apt)
+#install sublime (using apt)
 https://www.sublimetext.com/docs/3/linux_repositories.html
 
-install sublime merge (using apt)
+#install sublime merge (using apt)
 https://www.sublimemerge.com/docs/linux_repositories
 
-LEMP stack install
+#install vim:
+sudo apt install vim
+
+#LEMP stack install
 
 nginx:
 sudo apt install nginx
